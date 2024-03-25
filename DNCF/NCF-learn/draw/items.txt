@@ -1,0 +1,2 @@
+Traing loss 1,2,3,
+Validation loss 4,5,6,
